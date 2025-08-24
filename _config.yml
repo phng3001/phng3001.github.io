@@ -28,7 +28,7 @@ author:
   bio              : "Genomics | Bioinformatics | Microbiology"
   location         : "Quebec, Canada"
   employer         : "University Hospital of Quebec - Laval University"
-  uri              : "https://phng3001.github.io" # URL
+  # uri              : "https://phng3001.github.io" # URL
   email            : "nguyen-phuong.pham@crchudequebec.ulaval.ca" 
 
   # Academic websites
