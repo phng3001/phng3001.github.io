@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include toc %}
+{% include base_path %}
 
 Education
 ======
