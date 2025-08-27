@@ -25,7 +25,7 @@ main:
     
   - title: "CV"
   #   url: /cv/
-    url: /data/cv.yml
+    url: /files/cv.yml
     
   # - title: "CV"
   #   url: /cv-json/
