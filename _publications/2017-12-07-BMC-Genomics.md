@@ -3,10 +3,11 @@ title: "Comparative genomic analysis of <i>Brevibacterium</i> strains: insights 
 collection: publications
 category: manuscripts
 permalink: /publication/2017-12-07-BMC-Genomics.md
-excerpt: 'This study compared the gene repertoire of 23 <i>Brevibacterium</i> strains.'
+excerpt: 'This study compared the gene repertoire of 23 <i>Brevibacterium</i> strains to elucidate genetic .'
 date: 2017-12-07
 venue: 'BMC Genomics'
 paperurl: 'https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4322-1'
+citation: 'Pham, N. P., Layec, S., Dugat-Bony, E., Vidal, M., Irlinger, F., & Monnet, C. (2017). Comparative genomic analysis of Brevibacterium strains: insights into key genetic determinants involved in adaptation to the cheese habitat. BMC genomics, 18(1), 955.'
 ---
 
 Background
