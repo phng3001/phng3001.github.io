@@ -3,6 +3,7 @@ title: "Comparative genomic analysis of <i>Brevibacterium</i> strains: insights 
 collection: publications
 category: manuscripts
 permalink: /publication/2017-12-07-BMC-Genomics.md
+excerpt: 'This study compared the gene repertoire of 23 <i>Brevibacterium</i> strains.'
 date: 2017-12-07
 venue: 'BMC Genomics'
 paperurl: 'https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4322-1'
