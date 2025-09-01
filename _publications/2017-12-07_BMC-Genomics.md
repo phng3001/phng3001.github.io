@@ -1,5 +1,5 @@
 ---
-title: Comparative genomic analysis of <i>Brevibacterium</i> strains: insights into key genetic determinants involved in adaptation to the cheese habitat
+title: "Comparative genomic analysis of <i>Brevibacterium</i> strains: insights into key genetic determinants involved in adaptation to the cheese habitat"
 collection: publications
 category: manuscripts
 permalink: /publication/2017-12-07_BMC-Genomics
@@ -7,7 +7,7 @@ excerpt: This study compared the gene repertoire of 23 <i>Brevibacterium</i> str
 date: 2017-12-07
 venue: BMC Genomics
 paperurl: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4322-1
-citation: Pham, N. P., Layec, S., Dugat-Bony, E., Vidal, M., Irlinger, F., & Monnet, C. (2017). &quot;Comparative genomic analysis of <i>Brevibacterium</i> strains: insights into key genetic determinants involved in adaptation to the cheese habitat&quot;. <i>BMC genomics</i>, 18(1), 955.
+citation: "Pham, N. P., Layec, S., Dugat-Bony, E., Vidal, M., Irlinger, F., & Monnet, C. (2017). &quot;Comparative genomic analysis of <i>Brevibacterium</i> strains: insights into key genetic determinants involved in adaptation to the cheese habitat&quot;. <i>BMC genomics</i>, 18(1), 955."
 ---
 
 # Background
