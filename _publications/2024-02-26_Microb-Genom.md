@@ -3,7 +3,7 @@ title: Exploring the genetic basis of natural resistance to microcins
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-26_Microb-Genom
-excerpt: This study performed genomic analyses of the resistance to four microcins (microcin C, microcin J25, microcin B17 and microcin E492) on a collection of 54 <i>Enterobacteriaceae</i> (<i>Escherichia coli</i>, <i>Salmonella enterica</i> and <i>Klebsiella pneumoniae</i>) 
+excerpt: This study analyzed genomic determinants of resistance to four structurally diverse microcins in 54 <i>Enterobacteriaceae</i> isolates from three species (<i>E. coli</i>, <i>S. enterica</i>, and <i>K. pneumoniae</i>). While gene-targeted analysis highlighted mutations in microcin uptake pathways in resistant strains, genome-wide analysis suggested additional resistance-associated elements linked to stress response, biofilm formation, transport systems, immunity, and metabolism.
 date: 2024-02-26
 venue: Microbial Genomics
 paperurl: https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001156
