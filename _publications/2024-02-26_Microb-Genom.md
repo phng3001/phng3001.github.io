@@ -1,0 +1,13 @@
+---
+title: Exploring the genetic basis of natural resistance to microcins
+collection: publications
+category: manuscripts
+permalink: /publication/2024-02-26_Microb-Genom
+excerpt: This study performed genomic analyses of the resistance to four microcins (microcin C, microcin J25, microcin B17 and microcin E492) on a collection of 54 <i>Enterobacteriaceae</i> (<i>Escherichia coli</i>, <i>Salmonella enterica</i> and <i>Klebsiella pneumoniae</i>) 
+date: 2024-02-26
+venue: Microbial Genomics
+paperurl: https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001156
+citation: Telhig, S., Pham, N. P., Ben Said, L., Rebuffat, S., Ouellette, M., Zirah, S., & Fliss, I. (2024). &quot;Exploring the genetic basis of natural resistance to microcins&quot;. <i>Microbial Genomics</i>, 10(2), 001156.
+---
+
+*Enterobacteriaceae* produce an arsenal of antimicrobial compounds including microcins, ribosomally produced antimicrobial peptides showing diverse structures and mechanisms of action. Microcins target close relatives of the producing strain to promote its survival. Their narrow spectrum of antibacterial activity makes them a promising alternative to conventional antibiotics, as it should decrease the probability of resistance dissemination and collateral damage to the host’s microbiota. To assess the therapeutic potential of microcins, there is a need to understand the mechanisms of resistance to these molecules. In this study, we performed genomic analyses of the resistance to four microcins [microcin C, a nucleotide peptide; microcin J25, a lasso peptide; microcin B17, a linear azol(in)e-containing peptide; and microcin E492, a siderophore peptide] on a collection of 54 *Enterobacteriaceae* from three species: *Escherichia coli*, *Salmonella enterica* and *Klebsiella pneumoniae*. A gene-targeted analysis revealed that about half of the microcin-resistant strains presented mutations of genes involved in the microcin mechanism of action, especially those involved in their uptake (*fhuA*, *fepA*, *cirA* and *ompF*). A genome-wide association study did not reveal any significant correlations, yet relevant genetic elements were associated with microcin resistance. These were involved in stress responses, biofilm formation, transport systems and acquisition of immunity genes. Additionally, microcin-resistant strains exhibited several mutations within genes involved in specific metabolic pathways, especially for *S. enterica* and *K. pneumoniae*.
