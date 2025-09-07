@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a microbiologist focused on translating omics data into biological insights.
+I am a microbiologist focused on translating omics data into biological insights.
 
-I'm currently working as a Research Associate in [Professor Marc Ouellette’s lab](https://www.crchudequebec.ulaval.ca/en/researcher/marc-ouellette/) at [the CHU de Québec – Université Laval Research Center](https://www.crchudequebec.ulaval.ca/en/).
+I am currently working as a Research Associate in [Professor Marc Ouellette’s lab](https://www.crchudequebec.ulaval.ca/en/researcher/marc-ouellette/) at the CHU de Québec – Université Laval Research Center.
 
 I earned a PhD in Process Engineering, specializing in Microbiology, from [AgroParisTech](https://www.agroparistech.fr/en), Paris-Saclay University (France). I then completed my postdoctoral training in my current lab, focusing on antimicrobial resistance in *Streptococcus pneumoniae*. 
 
@@ -19,3 +19,5 @@ Previously, I received an MSc in Molecular and Cellular Biology at [Pierre and M
 # 🔬 Selected experiences
 
 My omics journey began during my MSc internship at the GMPA (now [SayFood](https://eng-umr-sayfood.versailles-saclay.hub.inrae.fr/)) laboratory, where I conducted genome sequencing, assembly, and annotation of *Brevibacterium*, a bacterium widely used in surface-ripened cheeses for producing aroma compounds and red-orange pigments. My work on *Brevibacterium* continued during my [PhD](https://theses.fr/2018SACLA035), where I integrated genomic, transcriptomic, and metabolomic analyses to uncover its adaptation mechanisms to the cheese environment.
+
+My postdoctoral training at [Professor Marc Ouellette’s lab](https://www.crchudequebec.ulaval.ca/en/researcher/marc-ouellette/) allowed me to strengthen my bioinformatic skills by implementing pipelines for genomic analyses in a high-performance computing (HPC) environment. My work on [trimethoprim resistance in *Streptococcus pneumoniae*](https://journals.asm.org/doi/10.1128/mbio.01360-24) combined genome-wide association study (GWAS), resistance reconstruction and machine learning to provide a proof of concept for integrating *in silico* analysis, wet-lab validation and diagnostic tool development to explore antimicrobial resistance across various bacteria-antibiotic combinations.
