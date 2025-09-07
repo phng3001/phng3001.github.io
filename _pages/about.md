@@ -16,6 +16,6 @@ I earned a PhD in Process Engineering, specializing in Microbiology, from [AgroP
 
 Previously, I received an MSc in Molecular and Cellular Biology at [Pierre and Marie Curie University](https://www.sorbonne-universite.fr/en) (France), and a BPharm at [Hanoi University of Pharmacy](https://www.hup.edu.vn/en) (Vietnam).
 
-# Selected experiences
+# 🔬 Selected experiences
 
-My omics journey began during my MSc internship at the GMPA (now [SayFood](https://eng-umr-sayfood.versailles-saclay.hub.inrae.fr/)) laboratory, where I conducted genome sequencing, assembly, and annotation of *Brevibacterium*, a bacterium widely used in surface-ripened cheeses for producing aroma compounds and red-orange pigments.
+My omics journey began during my MSc internship at the GMPA (now [SayFood](https://eng-umr-sayfood.versailles-saclay.hub.inrae.fr/)) laboratory, where I conducted genome sequencing, assembly, and annotation of *Brevibacterium*, a bacterium widely used in surface-ripened cheeses for producing aroma compounds and red-orange pigments. My work on *Brevibacterium* continued during my [PhD](https://theses.fr/2018SACLA035), where I integrated genomic, transcriptomic, and metabolomic analyses to uncover its adaptation mechanisms to the cheese environment.
