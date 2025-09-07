@@ -18,4 +18,4 @@ Previously, I received an MSc in Molecular and Cellular Biology at [Pierre and M
 
 # Selected experiences
 
-My omics journey began during my MSc internship at the GMPA (now SayFood) laboratory, where I conducted genome sequencing, assembly, and annotation of *Brevibacterium*, a bacterium widely used in surface-ripened cheeses for producing aroma compounds and red-orange pigments.
+My omics journey began during my MSc internship at the GMPA (now [SayFood](https://eng-umr-sayfood.versailles-saclay.hub.inrae.fr/)) laboratory, where I conducted genome sequencing, assembly, and annotation of *Brevibacterium*, a bacterium widely used in surface-ripened cheeses for producing aroma compounds and red-orange pigments.
