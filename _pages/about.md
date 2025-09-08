@@ -22,7 +22,7 @@ My omics journey began during my MSc internship in the GMPA (now [SayFood](https
 
 My postdoctoral training in [Professor Marc Ouellette’s lab](https://www.crchudequebec.ulaval.ca/en/researcher/marc-ouellette/) allowed me to strengthen my bioinformatics skills by implementing genomic analysis pipelines in a high-performance computing (HPC) environment. My work on [trimethoprim resistance in *Streptococcus pneumoniae*](https://journals.asm.org/doi/10.1128/mbio.01360-24) combined genome-wide association study (GWAS), resistance reconstruction, and machine learning to provide a proof of concept for integrating *in silico* analysis, wet-lab validation and diagnostic tool development to explore antimicrobial resistance (AMR) across various bacteria-antibiotic combinations.
 
-My current research primarily focuses on deciphering the molecular mechanisms of AMR (including multidrug resistance) and adaptation in *S. pneumoniae*. I have been maintaining, optimizing, and developing omics analysis pipelines for my research group and collaborators, targeting various bacteria and protozoan parasites such as *Leishmania*.
+My current research primarily focuses on deciphering the molecular mechanisms of AMR (including multidrug resistance) and adaptation in *S. pneumoniae*. I have been developing, maintaining, and optimizing omics analysis pipelines for my research group and collaborators, targeting various bacteria (e.g., *S. pneumoniae*, *Escherichia coli*, *Salmonella enterica*) and protozoan parasites (*Leishmania*).
 
 # 📜 Favorite quotes
 
