@@ -7,9 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-# Address 
+## Address 
 CHUL, 2705 Laurier Boulevard, RC-709, Quebec, QC G1V 4G2, Canada
-# Email 
+
+## Email 
 * nguyen-phuong.pham@crchudequebec.ulaval.ca
 * nguyenphuong.pham1990@gmail.com
 
