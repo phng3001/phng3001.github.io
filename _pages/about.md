@@ -29,3 +29,5 @@ My current research primarily focuses on deciphering the molecular mechanisms of
 > *All is data.*
 
 > *Art is me, science is us.* (Claude Bernard)
+
+💬 If my expertise aligns with your program or research interests, I would be happy to discuss potential collaborations. Please feel free to [contact me](https://phng3001.github.io/contact/).
