@@ -17,7 +17,11 @@ collection: notes
 # Acquired resistance 
 ## Gain of enzymes
 ### Enzymes that degrade or modify the antimicrobials
+* Example 1: β-lactamase enzyme degrading penicillin into fragments
 ![Beta-lactamase](/images/beta_lactamase.png)
 
 © Wellcome Connecting Science
+
+* Example 2: Aminoglycoside-modifying enzyme (e.g. N-acetyltransferases) adding add an acetyl group (CH3CO) to kanamycin, stopping it binding to the ribosome
+![Aminoglycoside-modifying enzyme](/images/aminoglycoside_modifying_enzymes.png)
 
