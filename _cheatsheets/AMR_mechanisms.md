@@ -6,7 +6,7 @@ collection: cheatsheets
 
 ## Intrinsic resistance
 
-![Mechanisms of intrinsic resistance](AMR_mechanisms/intrinsic_resistance_mechanisms.png)
+![Mechanisms of intrinsic resistance](/images/AMR_mechanisms/intrinsic_resistance_mechanisms.png)
 
 © Wellcome Connecting Science
 
@@ -19,19 +19,19 @@ collection: cheatsheets
 ### Gain of enzymes
 #### Enzymes that degrade or modify the antimicrobial substance
 * Example 1: β-lactamase enzyme degrading penicillin into fragments
-![Beta-lactamase](AMR_mechanisms/beta_lactamase.png)
+![Beta-lactamase](/images/AMR_mechanisms/beta_lactamase.png)
 
 © Wellcome Connecting Science
 
 * Example 2: Aminoglycoside-modifying enzyme (e.g. N-acetyltransferases) adding add an acetyl group (CH3CO) to kanamycin, stopping it binding to the ribosome
-![Aminoglycoside-modifying enzyme](AMR_mechanisms/aminoglycoside_modifying_enzymes.png)
+![Aminoglycoside-modifying enzyme](/images/AMR_mechanisms/aminoglycoside_modifying_enzymes.png)
 
 © Wellcome Connecting Science
 
 #### Enzymes that modify the target of the antimicrobial substance
 
 Example: *erm* (Erythromycin Ribosomal Methylation) methylating to part of the ribosome which is the target of erythromycin
-![Erythromycin ribosomal methylation](AMR_mechanisms/erm.png)
+![Erythromycin ribosomal methylation](/images/AMR_mechanisms/erm.png)
 
 © Wellcome Connecting Science
 
@@ -39,7 +39,7 @@ Example: *erm* (Erythromycin Ribosomal Methylation) methylating to part of the r
 
 Example: Single Nucleotide Polymorphisms (SNPs) modifying Penicillin Binding Proteins (PBPs) which are the targets of penicillin
 
-![PBP SNPs](AMR_mechanisms/pbp_snp.png)
+![PBP SNPs](/images/AMR_mechanisms/pbp_snp.png)
 
 © Wellcome Connecting Science
 
@@ -47,7 +47,7 @@ Example: Single Nucleotide Polymorphisms (SNPs) modifying Penicillin Binding Pro
 
 Example: Methicillin-resistant Staphylococcus aureus (MRSA)  acquiring an extra copy of penicillin-binding protein 2, known as PBP2a
 
-![PBP2a](AMR_mechanisms/pbp2a.png)
+![PBP2a](/images/AMR_mechanisms/pbp2a.png)
 
 © Wellcome Connecting Science
 
@@ -55,7 +55,7 @@ Example: Methicillin-resistant Staphylococcus aureus (MRSA)  acquiring an extra 
 
 Example: Overproduction of dihydropteroate synthase (DHPS) leading to sulfamethoxazole (SMX) resistance
 
-![DHPS overproduction](AMR_mechanisms/dhps_overproduction.png)
+![DHPS overproduction](/images/AMR_mechanisms/dhps_overproduction.png)
 
 © Wellcome Connecting Science
 
