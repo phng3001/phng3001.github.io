@@ -35,8 +35,8 @@ main:
   - title: "Contact"
     url: /contact/
 
-  - title: "Notes"
-    url: /notes/
+  - title: "Cheatsheets"
+    url: /cheatsheets/
     
   - title: "Guide"
     url: /markdown/
