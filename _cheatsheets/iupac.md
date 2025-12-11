@@ -27,6 +27,7 @@ N |  | aNy base
 . or - | gap
 
 ## Amino acid
+
 Code | Three letter Code | Amino Acid
 -----|-------------------|-----------
 A | Ala | Alanine
