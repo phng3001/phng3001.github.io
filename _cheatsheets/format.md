@@ -1,6 +1,6 @@
 ---
 title:  "File formats"
-excerpt: "File formats used in bioinformatics"
+excerpt: "Common file formats used in bioinformatics"
 collection: cheatsheets
 ---
 
@@ -146,6 +146,7 @@ A BED file is a **tab-separated** text file describing genomic intervals
 * Up to 12 columns are defined (BED12, commonly used for exon/intron structure)
 
 **BED columns**
+
 Column | Name | Description
 -------|------|------------
 1 | chrom | Chromosome name
@@ -203,6 +204,7 @@ ACAGCGCTGTCTTTGTGGCCTGCAGGG
 ```
 
 **GFF3 columns**
+
 Column | Name | Description
 -------|------|------------
 1 | seqid | Sequence name (chromosome/contig ID)
@@ -251,6 +253,7 @@ A GTF file includes:
 * Feature lines: exactly 9 **tab-delimited** columns
 
 **GTF columns**
+
 Column | Name | Description
 -------|------|------------
 1 | seqname | Sequence name (chromosome/contig ID)
@@ -312,6 +315,7 @@ SAM is **tab-delimited** and designed to represent how sequencing reads align to
 * Except `@CO` lines, each data field follows a `TAG:VALUE` format
 
 **Common record types and tags**
+
 Record type | Description | Tags
 ------------|-------------|-----
 `@HD` | File-level metadata (e.g. format version, sorting order) | `VN` (format), `SO` (sorting order)
@@ -327,6 +331,7 @@ Record type | Description | Tags
     - Optional fields start at column 12 and follow the format `TAG:TYPE:VALUE`
 
 **SAM columns**
+
 Column | Name | Description
 -------|------|------------
 1 | QNAME | Query/read name
@@ -394,6 +399,7 @@ A VCF file includes:
 * Missing values are specified with a `.`
 
 **VCF columns**
+
 Column | Name | Description
 -------|------|------------
 1 | CHROM | Chromosome/contig reference sequence name
@@ -434,6 +440,7 @@ Column | Name | Description
     - The number of alleles reflects sample ploidy (e.g. `0` → haploid, `0/1` → diploid, `0/0/1` → triploid)
 
 **Common diploid genotypes**
+
 GT | Interpretation
 ---|---------------
 `0/0` | Homozygous reference
