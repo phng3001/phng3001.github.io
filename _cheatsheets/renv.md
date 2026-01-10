@@ -34,11 +34,14 @@ module load StdEnv/2023 r/4.5.0
 ## Work in the project directory
 ### Activate `renv`
 > **Notes:** This should be done everytime
+
 ```R
 > setwd("/path/to/directory")
 > renv::activate()
 ```
+
 or
+
 ```R
 > setwd("/path/to/directory")
 > source("renv/activate.R")
@@ -51,6 +54,7 @@ or
 
 ## Save the state of the project dependencies to the lockfile (`renv.lock`)
 > **Notes:** Only packages being used inside R scripts in the project will be saved
+
 ```R
 > renv::snapshot()
 ```
