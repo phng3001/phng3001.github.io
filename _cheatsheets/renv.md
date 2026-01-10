@@ -43,6 +43,7 @@ or
 > setwd("/path/to/directory")
 > source("renv/activate.R")
 ```
+
 ### Example: Install ggplot2
 ```R
 > install.packages("ggplot2") 
